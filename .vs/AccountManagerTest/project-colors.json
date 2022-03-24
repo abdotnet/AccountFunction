@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a56eaf0d-2e56-40f3-b64d-98f25e558334": {
+      "ProjectGuid": "a56eaf0d-2e56-40f3-b64d-98f25e558334",
+      "DisplayName": "AccountFunction",
+      "ColorIndex": 0
+    },
+    "cff34487-dca0-48d2-b86a-2eacc46b971a": {
+      "ProjectGuid": "cff34487-dca0-48d2-b86a-2eacc46b971a",
+      "DisplayName": "AccountFunction.Infrastructure",
+      "ColorIndex": 1
+    },
+    "39dc64f5-40f3-4a5d-a5d2-ec0ea1473b0f": {
+      "ProjectGuid": "39dc64f5-40f3-4a5d-a5d2-ec0ea1473b0f",
+      "DisplayName": "AccountFunction.Core",
+      "ColorIndex": 2
+    },
+    "4f42e499-9e72-4a6a-9f9c-5bfd249e0d42": {
+      "ProjectGuid": "4f42e499-9e72-4a6a-9f9c-5bfd249e0d42",
+      "DisplayName": "Solution items",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

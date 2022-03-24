@@ -1,0 +1,12 @@
+C:\Apps\AccountManagerTest\AccountFunction.Core\bin\Debug\net6.0\AccountFunction.Core.deps.json
+C:\Apps\AccountManagerTest\AccountFunction.Core\bin\Debug\net6.0\AccountFunction.Core.dll
+C:\Apps\AccountManagerTest\AccountFunction.Core\bin\Debug\net6.0\ref\AccountFunction.Core.dll
+C:\Apps\AccountManagerTest\AccountFunction.Core\bin\Debug\net6.0\AccountFunction.Core.pdb
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.AssemblyInfoInputs.cache
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.AssemblyInfo.cs
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.csproj.CoreCompileInputs.cache
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.dll
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\ref\AccountFunction.Core.dll
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.pdb
+C:\Apps\AccountManagerTest\AccountFunction.Core\obj\Debug\net6.0\AccountFunction.Core.csproj.AssemblyReference.cache

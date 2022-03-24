@@ -1,0 +1,17 @@
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\AccountFunction.Infrastructure.deps.json
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\AccountFunction.Infrastructure.runtimeconfig.json
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\AccountFunction.Infrastructure.dll
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\ref\AccountFunction.Infrastructure.dll
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\AccountFunction.Infrastructure.pdb
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\AccountFunction.Core.dll
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\bin\Debug\net6.0\AccountFunction.Core.pdb
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.csproj.AssemblyReference.cache
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.AssemblyInfoInputs.cache
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.AssemblyInfo.cs
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.csproj.CopyComplete
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.dll
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\ref\AccountFunction.Infrastructure.dll
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.pdb
+C:\Apps\AccountManagerTest\AccountFunction.Infrastructure\obj\Debug\net6.0\AccountFunction.Infrastructure.genruntimeconfig.cache
